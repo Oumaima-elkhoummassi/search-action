@@ -27,7 +27,7 @@ Le guide propose un parcours progressif, des outils interactifs, et des ressourc
 
 
 
-🔗 **Démo en ligne** : [Accéder au site](https://your-username.github.io/education-research-guide/)
+🔗 **Démo en ligne** : [Accéder au site](https://pr-elhajji.github.io/search-action/)
 
 ♿ **Accessibilité** : Compatible lecteurs d’écran, navigation clavier, contrastes adaptés
 
@@ -93,8 +93,8 @@ src/
 
 ### Cloner le dépôt
 ```bash
-git clone https://github.com/your-username/education-research-guide.git
-cd education-research-guide
+git clone https://github.com/pr-elhajji/search-action.git
+cd search-action
 ```
 
 ### Installer les dépendances
